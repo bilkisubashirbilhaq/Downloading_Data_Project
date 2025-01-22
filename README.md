@@ -13,9 +13,8 @@ The following libraries are imported for the script:
 
 
 ### Datasets Uused
- *sitka_weather_07-2018_simple.csv*
- *sitka_weather_2018_simple.csv*
- 
+__sitka_weather_07-2018_simple.csv__
+
  ### In Summary
  In summary this project include the following:
    1. Read weather data from CSV files.
